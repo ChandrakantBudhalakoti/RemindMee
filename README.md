@@ -95,5 +95,4 @@ To deploy on Netlify:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Live Preview
-
-`https://remindmedates.netlify.app/`
+Check out the live demo of the Reminder WebApp [here](https://remindmedates.netlify.app/).
